@@ -1,0 +1,4 @@
+MIMIC-IV version: 3.1
+eICU-CRD version: 2.0
+MIMIC role: development/internal validation database
+eICU role: external validation database using fixed MIMIC coefficients

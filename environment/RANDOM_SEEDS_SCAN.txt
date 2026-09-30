@@ -1,0 +1,4 @@
+Random-seed scan of packaged formal scripts
+mimic/code/13b_incremental_prognostic.py:line 798: seed=20260919: rng = np.random.default_rng(20260919)
+eicu/code/E2D_cross_database_heterogeneity.py:line 330: seed=20260919: rng = np.random.default_rng(20260919)
+eicu/code/E3B_eicu_h72_external_validation.py:line 973: seed=20260919: rng = np.random.default_rng(20260919)

@@ -1,0 +1,18 @@
+{
+  "title": "MELD 3.0 ICU Landmark Reassessment: Analysis Code",
+  "upload_type": "software",
+  "description": "Analysis code supporting the manuscript '48-Hour Landmark Reassessment of MELD 3.0 in Critically Ill Patients With Cirrhosis: Incremental Prognostic Value and External Transportability'. No MIMIC-IV or eICU-CRD data, derived datasets, patient-level outputs, or fitted model artifacts are distributed in this public repository. Authorized users generate required derived files locally under the applicable PhysioNet data-use agreements.",
+  "creators": [
+    {"name": "Pan, Xiang", "affiliation": "The First Affiliated Hospital of Dali University", "orcid": "0009-0000-9900-1799"},
+    {"name": "An, Qing", "affiliation": "The First Affiliated Hospital of Dali University", "orcid": "0009-0006-5886-4348"},
+    {"name": "Zhang, Yulong", "affiliation": "The First Affiliated Hospital of Dali University"},
+    {"name": "Zhang, Shurui", "affiliation": "The First Affiliated Hospital of Dali University"},
+    {"name": "Li, Jianying", "affiliation": "The First Affiliated Hospital of Dali University"},
+    {"name": "Su, Ziting", "affiliation": "The First Affiliated Hospital of Dali University", "orcid": "0009-0007-2140-6252"}
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-10-01",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": ["MELD 3.0", "cirrhosis", "intensive care", "landmark analysis", "external validation", "transportability"]
+}

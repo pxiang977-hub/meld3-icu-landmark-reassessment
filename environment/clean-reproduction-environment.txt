@@ -1,0 +1,13 @@
+Clean reproduction environment (not the unrecoverable historical analysis environment)
+
+Python: 3.12.0
+Platform used for clean reproduction: macOS 13.7.6, arm64
+DuckDB: 1.5.5
+pandas: 3.0.6
+PyArrow: 25.0.1
+NumPy: 2.5.3
+SciPy: 1.18.1
+statsmodels: 0.15.0
+scikit-learn: 1.9.1
+
+These versions document the later clean reproduction/QC environment and must not be represented as a reconstruction of the original historical analysis environment, whose exact dependency versions were not recoverable.

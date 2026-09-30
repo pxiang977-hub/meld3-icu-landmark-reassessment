@@ -1,0 +1,27 @@
+# Credentialed source data and ALL patient-level/derived data artifacts -- NEVER COMMIT
+**/data/
+**/raw/
+**/work/
+*.csv
+*.csv.gz
+*.parquet
+*.duckdb
+*.db
+*.sqlite
+*.sqlite3
+
+# Allow repository metadata text files only; no derived CSVs are distributed publicly.
+
+# Credentials / environments
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/
+*.log

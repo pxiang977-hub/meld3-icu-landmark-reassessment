@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "MELD 3.0 ICU landmark reassessment analysis code"
+message: "If you use this code, please cite the associated manuscript and this software release."
+type: software
+authors:
+  - family-names: Pan
+    given-names: Xiang
+    orcid: "https://orcid.org/0009-0000-9900-1799"
+    affiliation: "The First Affiliated Hospital of Dali University"
+  - family-names: An
+    given-names: Qing
+    orcid: "https://orcid.org/0009-0006-5886-4348"
+    affiliation: "The First Affiliated Hospital of Dali University"
+  - family-names: Zhang
+    given-names: Yulong
+    affiliation: "The First Affiliated Hospital of Dali University"
+  - family-names: Zhang
+    given-names: Shurui
+    affiliation: "The First Affiliated Hospital of Dali University"
+  - family-names: Li
+    given-names: Jianying
+    affiliation: "The First Affiliated Hospital of Dali University"
+  - family-names: Su
+    given-names: Ziting
+    orcid: "https://orcid.org/0009-0007-2140-6252"
+    affiliation: "The First Affiliated Hospital of Dali University"
+version: 1.0.0
+date-released: 2026-10-01
+license: MIT
+repository-code: "https://github.com/pxiang977-hub/meld3-icu-landmark-reassessment"
+keywords:
+  - MELD 3.0
+  - cirrhosis
+  - intensive care
+  - landmark analysis
+  - external validation
+  - transportability
